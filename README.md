@@ -1,2 +1,3 @@
 # hello-world
 getting-started
+I'm Nick, a graphic designer who decided it was time to expand my skill set. I have a specific project in mind that I'm going to use to learn this stuff. I'd like to create a way to automatically post a custom comment(s) on facebook posts at a set time. I have an overview of what I need to do, now it's time to learn exactly how to complete each step ...
